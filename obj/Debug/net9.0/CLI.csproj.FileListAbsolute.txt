@@ -1,0 +1,17 @@
+C:\Users\omenh\OneDrive\Documents\CLI\obj\Debug\net9.0\CLI.csproj.AssemblyReference.cache
+C:\Users\omenh\OneDrive\Documents\CLI\obj\Debug\net9.0\CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omenh\OneDrive\Documents\CLI\obj\Debug\net9.0\CLI.AssemblyInfoInputs.cache
+C:\Users\omenh\OneDrive\Documents\CLI\obj\Debug\net9.0\CLI.AssemblyInfo.cs
+C:\Users\omenh\OneDrive\Documents\CLI\obj\Debug\net9.0\CLI.csproj.CoreCompileInputs.cache
+C:\Users\omenh\OneDrive\Documents\CLI\bin\Debug\net9.0\CLI.exe
+C:\Users\omenh\OneDrive\Documents\CLI\bin\Debug\net9.0\CLI.deps.json
+C:\Users\omenh\OneDrive\Documents\CLI\bin\Debug\net9.0\CLI.runtimeconfig.json
+C:\Users\omenh\OneDrive\Documents\CLI\bin\Debug\net9.0\CLI.dll
+C:\Users\omenh\OneDrive\Documents\CLI\bin\Debug\net9.0\CLI.pdb
+C:\Users\omenh\OneDrive\Documents\CLI\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\omenh\OneDrive\Documents\CLI\obj\Debug\net9.0\CLI.csproj.Up2Date
+C:\Users\omenh\OneDrive\Documents\CLI\obj\Debug\net9.0\CLI.dll
+C:\Users\omenh\OneDrive\Documents\CLI\obj\Debug\net9.0\refint\CLI.dll
+C:\Users\omenh\OneDrive\Documents\CLI\obj\Debug\net9.0\CLI.pdb
+C:\Users\omenh\OneDrive\Documents\CLI\obj\Debug\net9.0\CLI.genruntimeconfig.cache
+C:\Users\omenh\OneDrive\Documents\CLI\obj\Debug\net9.0\ref\CLI.dll
